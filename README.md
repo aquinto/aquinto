@@ -18,7 +18,11 @@ I am a current Computer Science student at the [University of Maryland](https://
 - Email: alexander.e.quinto@gmail.com
 - Resume: [View](https://github.com/aquinto/aquinto/blob/main/assets/AlexanderQuinto-Resume.pdf)
 
-
+<style>
+.react-svg {
+    fill: #61DAFB;
+}
+</style>
 ### :computer: Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -27,4 +31,4 @@ I am a current Computer Science student at the [University of Maryland](https://
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="ReactTest" width="26px" fill="#61DAFB" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />
+<img align="left" alt="ReactTest" width="26px" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />{.react-svg}
