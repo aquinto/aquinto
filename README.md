@@ -16,6 +16,7 @@ I am a current Computer Science student at the [University of Maryland](https://
 - LinkedIn: [linkedin.com/alexanderquinto](https://www.linkedin.com/in/alexander-quinto)
 - Site: coming soon
 - Email: alexander.e.quinto@gmail.com
+- Resume: [View](https://raw.githubusercontent.com/aquinto/aquinto/master/assets/AlexanderQuinto-Resume.pdf")
 
 
 ### :computer: Languages and Tools:
