@@ -19,7 +19,7 @@ I am a current Computer Science student at the [University of Maryland](https://
 - Resume: [View](https://github.com/aquinto/aquinto/blob/main/assets/AlexanderQuinto-Resume.pdf)
 
 
-### :computer: Languages and Tools:
+### <img align="left" alt="C" width="26px" src="/assets/coding.svg" /> Languages and Tools:
 
 
 <img align="left" alt="C" width="26px" src="/assets/ocaml-icon.svg" />
