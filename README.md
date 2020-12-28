@@ -32,4 +32,4 @@ I am a current Computer Science student at the [University of Maryland](https://
     filter: invert(68%) sepia(46%) saturate(550%) hue-rotate(159deg) brightness(104%) contrast(97%);
 }
 </style>
-<img align="left" alt="ReactTest" width="26px" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />{.react-svg}
+!<img align="left" alt="ReactTest" width="26px" src="https://unpkg.com/simple-icons@v4/icons/react.svg" />{.react-svg}
