@@ -21,13 +21,14 @@ I am a current Computer Science student at the [University of Maryland](https://
 
 ### :computer: Languages and Tools:
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 <img align="left" alt="C" width="26px" src="/assets/ocaml-icon.svg" />
-<img align="left" alt="C" width="26px" src="/assets/c.svg" />
-<img align="left" alt="HTML" width="26px" src="/assets/html-5.svg" />
+<img align="left" alt="C" width="26px" src="/assets/rust.svg" />
+<img align="left" alt="HTML" width="26px" src="/assets/html.svg" />
 <img align="left" alt="CSS" width="26px" src="/assets/css.svg" />
 <img align="left" alt="JS" width="26px" src="/assets/javascript.svg" />
 <img align="left" alt="Python" width="26px" src="/assets/python.svg" />
 <img align="left" alt="Java" width="26px" src="/assets/java.svg" />
 <img align="left" alt="Ruby" width="26px" src="/assets/ruby.svg" />
+<img align="left" alt="Git" width="26px" src="/assets/git.svg" />
 <!-- Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> --> 
