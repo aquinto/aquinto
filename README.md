@@ -5,8 +5,6 @@ I am a current Computer Science student at the [University of Maryland](https://
 
 - :school_satchel: I am currently a junior at the University of Maryland
 - :pushpin: I am currently the website adminstrator at [La Voz Unida](https://www.lavozunida.com)
-- :thinking: I’m currently learning full stack development
-- :goal_net: Contribute more to GitHub and build full stack applications
 
 
 
