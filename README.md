@@ -3,8 +3,8 @@
 
 I am a current Computer Science student at the [University of Maryland](https://www.cs.umd.edu). 
 
-- :school_satchel: I am currently a junior at the University of Maryland
-- :pushpin: I am currently the website adminstrator at [La Voz Unida](https://www.lavozunida.com)
+- :school_satchel: I am currently a senior at the University of Maryland
+- :pushpin: I am currently a Software Engineer at [Boston Scientific](https://www.bostonscientific.com/en-US/Home.html)
 
 
 
